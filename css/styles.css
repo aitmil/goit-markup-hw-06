@@ -484,6 +484,11 @@ body {
   gap: 120px;
 }
 
+.footer-form-wrap {
+  display: flex;
+  gap: 80px;
+}
+
 .footer-logo-wrap {
   max-width: 264px;
 }
